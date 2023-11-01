@@ -41,13 +41,11 @@ I'm currently learning Javascript for web development and backend. Made a discor
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@abidshahrear66?theme=rule34"></a>
 <a href="https://github.com/abidshahrear66"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
-```yaml
-```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/abidshahrear66"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+<a href="https://github.com/abidshahrear66"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png"/></a>
 
-**Instagram - [ayanokojipon](https://www.instagram.com/abid.regx/)** 
+**Instagram - [abid.regx](https://www.instagram.com/abid.regx/)** 
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=abidshahrear66"> -->
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/abidshahrear66)
