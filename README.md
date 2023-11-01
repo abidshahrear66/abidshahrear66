@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/1076064221210628118"><img align="right" width="425" src="[(https://lanyard.kyrie25.me/api/1076064221210628118?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Probably%20working%20on%20my%20current%20project%20if%20online)](https://discord.com/users/1076064221210628118)"></a>
+<a href="https://discord.com/users/1076064221210628118"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1076064221210628118?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Probably%20working%20on%20my%20current%20project%20if%20online"></a>
 
 
 ### Hello! 🦥 I am **`Nienc`** aka `Abid`
